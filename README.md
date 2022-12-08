@@ -7,7 +7,7 @@
 <img src="readme-header.png">
   
 
-### <div align="center">Hi :wave: I'm Vanessa, a full-time full-stack freelance developer 👩‍💻</div>  
+### <div align="center">Hi :wave: I'm Vanessa, a full-stack freelance developer, with 6+ months of training experience 👩‍💻</div>  
   
 
 - 🔭 I’m currently working on [Ruff Mom Life](https://github.com/vanessamald/ruff-mom-life)  

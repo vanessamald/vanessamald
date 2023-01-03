@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Ruff Mom Life](https://github.com/vanessamald/ruff-mom-life)  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning UX Design Principles  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

@@ -11,6 +11,9 @@
   
 
 - 🔭 I’m currently working on [Ruff Mom Life](https://github.com/vanessamald/ruff-mom-life1)
+
+
+- :computer: Last Project Completed: [Evoke](https://github.com/vanessamald/evoke)
   
 
 - 🌱 I’m currently learning UX Design Principles  
@@ -36,11 +39,11 @@
 ![NPM badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQl badge](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![Express.js badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Framer badge](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 
 

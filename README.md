@@ -10,7 +10,7 @@
 ### <div align="center">Hi :wave: I'm Vanessa, a full-stack freelance developer, with 6+ months of training experience 👩‍💻</div>  
   
 
-- 🔭 I’m currently working on [Ruff Mom Life](https://github.com/vanessamald/ruff-mom-life1) and [Evoke](https://github.com/vanessamald/evoke) 
+- 🔭 I’m currently working on [Ruff Mom Life](https://github.com/vanessamald/ruff-mom-life1)
   
 
 - 🌱 I’m currently learning UX Design Principles  

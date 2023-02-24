@@ -7,7 +7,7 @@
 
   
 
-### <div align="center">Hi :wave: I'm Vanessa, a full-stack freelance developer, with 6+ months of training experience 👩‍💻</div>  
+### <div align="center">Hi :wave: I'm Vanessa, a full-stack freelance developer, with 1 year of experience 👩‍💻</div>  
   
 
 - 🔭 I’m currently working on [Ruff Mom Life](https://github.com/vanessamald/ruff-mom-life1)

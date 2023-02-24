@@ -19,7 +19,10 @@
 - 🌱 I’m currently learning UX Design Principles  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies 
+
+
+- 🖤 Pronouns: She/Her
   
 
 - ⚡ Fun fact: I love reading 📚  

@@ -16,7 +16,7 @@
 - :computer: Last Project Completed: [Evoke](https://github.com/vanessamald/evoke2.0)
   
 
-- 🌱 I’m currently learning UX Design Principles  
+- 🌱 I’m currently learning React Native  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies 
